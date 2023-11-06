@@ -34,5 +34,5 @@ THEN I can save my initials and score
 
 ## Credit
 
-Credit for help with this project: Tutor, Scott Everett
+Credit for help with this project goes to my Tutor, Scott Everett, YouTube, James Q Quick.  I also used Github Co-Pilot to complete the code.
 
