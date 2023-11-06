@@ -1,6 +1,6 @@
 # JavaScriptQuizMod-4
 
-Build a quiz with a timer in JavaScript
+Build a quiz in JavaScript that shows a question with several answers.  The player must select the correct answer.  The quiz keeps track of how many answers the player has correct. Ther is a timer that counts down the seconds till the game is over.
 
 # Description
 
