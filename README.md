@@ -32,6 +32,10 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+## Images and Links
+![Image of start page](image.png)
+
+
 ## Credit
 
 Credit for help with this project goes to my Tutor, Scott Everett, YouTube, James Q Quick.  I also used Github Co-Pilot to complete the code.
